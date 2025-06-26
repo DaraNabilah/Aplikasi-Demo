@@ -3,7 +3,7 @@ By Dara Nabilah
 
 Ini adalah tugas kuliah pemrograman 1
 
-Selamat datang di proyek **Nama_Proyek_Anda_Di_Sini**! Repositori ini berisi kode sumber untuk aplikasi Java desktop yang dikembangkan menggunakan NetBeans dan terhubung dengan database MySQL.
+Selamat datang di proyek **Aplikasi Demo**! Repositori ini berisi kode sumber untuk aplikasi Java desktop yang dikembangkan menggunakan NetBeans dan terhubung dengan database MySQL.
 
 ## 🚀 Langkah-langkah Pengembangan Lokal
 
