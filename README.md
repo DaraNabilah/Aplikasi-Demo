@@ -38,11 +38,7 @@ Lanjutkan untuk membuat Class (baik `JFrame Form` untuk GUI atau `Java Class` bi
 
 ### 4. Pengelolaan Import Package
 
-Pastikan setiap Class yang menggunakan Class lain dari package yang berbeda di-import dengan benar. NetBeans biasanya akan membantu dengan auto-import, namun pastikan sintaks `import` berada di bagian atas setiap file Java yang membutuhkan:
-
-```java
-import p13.NamaClassDariP13; // Contoh import class spesifik
-import p14.*; // Contoh import semua class dari p14 (tidak selalu disarankan untuk project besar)
+Pastikan setiap Class yang menggunakan Class lain dari package yang berbeda di-import dengan benar. NetBeans biasanya akan membantu dengan auto-import, namun pastikan sintaks `import` berada di bagian atas setiap file Java.
 
 ### 5. Setup Database MySQL (dengan XAMPP)
 
